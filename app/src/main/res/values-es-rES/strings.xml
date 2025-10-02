@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">CalcularCuentasV2</string>
+    <string name="upperName">Calculadora de Cuentas</string>
+    <string name="accAmo">Importe de la cuenta</string>
+    <string name="comNum">Número de comensales</string>
+    <string name="RouTip">Redondear propina</string>
+    <string name="cal">Calcular</string>
+    <string name="ratPor">Propina: </string>
+    <string name="total">Total a pagar: </string>
+    <string name="each">Cada comensal: </string>
+    <string name="invVal">Valores inválidos</string>
+</resources>

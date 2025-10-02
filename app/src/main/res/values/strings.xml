@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">split Accounts V2</string>
+        <string name="upperName">Calculate Checks</string>
+        <string name="accAmo">Account amount</string>
+        <string name="comNum">Number of commensal</string>
+        <string name="RouTip">Round Tip</string>
+        <string name="cal">Calculate</string>
+        <string name="ratPor">Tip: </string>
+        <string name="total">Total Quantity: </string>
+        <string name="each">Each: </string>
+    <string name="invVal">Invalid values</string>
+
+</resources>
