@@ -109,7 +109,14 @@ fun Calculadora() {
             }
             Spacer(modifier = Modifier.height(24.dp))
             val test : String = stringResource(R.string.invVal)
+            var calcHabilitated : Boolean
+            if(cantidad.isEmpty() || comensales.isEmpty()){
+                calcHabilitated=false
+            }else{
+                calcHabilitated=true
+            }
             FilledTonalButton(
+                enabled = calcHabilitated,
                 onClick = {
                     resultado = dividirCuenta(
                         cantidad = cantidad,
